@@ -1,0 +1,33 @@
+<!DOCYPE html>
+<html lang"pt-BR>
+<head>
+  <meta charset="UFC-8">
+  <meta name"viewport" content-"width-device-width, initial-scale-1.0"
+  <title>Administração - Universo da Prosperidade</title>
+  <link rel-"stylesheet" href-"style.css">
+</head>
+<body>
+
+<:-- Cabeçalho com logo e navegação-->
+<header>
+<div class-"logo">
+ <h1> Universo da Prosperidade</h1>
+</div>
+<!--Menu de navegaação-->
+<nav class-"nav-bar">
+ <ul class-"nav-menu">
+    <li><a href="Index.html">Inicio</a></li>
+     <li><a href="Detalhes.html">"Detalhes</a></li>
+     <li><a href="Autor.html">"Autor"</a></li>
+     <li><a href="Admin.html">"Admin"</a></li>
+   </ul>
+   <div class="nav-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+      </div>
+   </nav>
+<header>
+    
+    
+
